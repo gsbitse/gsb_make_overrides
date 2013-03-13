@@ -8,6 +8,7 @@ projects[file_entity][download][type] = git
 projects[file_entity][download][revision] = d3a647f
 projects[file_entity][download][branch] = 7.x-2.x
 projects[file_entity][patch][1935724] = http://drupal.org/files/1935724-d7-1.patch
+projects[file_entity][patch][1941456] = http://drupal.org/files/1941456-d7-1.patch
 
 ; This overrides jquery_update in panopoly_admin
 projects[jquery_update][version] = 2.3
