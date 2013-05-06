@@ -16,4 +16,4 @@ projects[views][patch][867786] = http://drupal.org/files/867786-views_path-3.pat
 projects[navbar][version] = 1.0-alpha10
 projects[navbar][subdir] = contrib
 ;projects[navbar][patch][1875254] = http://drupal.org/files/navbar_has_mismatching_closing_tag_1875254_1.patch
-projects[navbar][patch][navbar-mega-menu-fix-position] = https://raw.github.com/gsbitse/gsb-revamp-patches/master/navbar-mega-menu-fix-position.patch
+;projects[navbar][patch][navbar-mega-menu-fix-position] = https://raw.github.com/gsbitse/gsb-revamp-patches/master/navbar-mega-menu-fix-position.patch
