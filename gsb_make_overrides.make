@@ -15,3 +15,15 @@ projects[views][patch][867786] = http://drupal.org/files/867786-views_path-3.pat
 ; This overrides navbar 
 projects[navbar][version] = 1.0-alpha10
 projects[navbar][subdir] = contrib
+
+projects[ctools][version] = 1.x-dev
+projects[ctools][subdir] = contrib
+projects[ctools][download][type] = git
+projects[ctools][download][revision] = 876c1a8
+projects[ctools][download][branch] = 7.x-1.x
+
+projects[fieldable_panels_panes][version] = 1.x-dev
+projects[fieldable_panels_panes][subdir] = contrib
+projects[fieldable_panels_panes][download][type] = git
+projects[fieldable_panels_panes][download][revision] = 3b9c8b6
+projects[fieldable_panels_panes][download][branch] = 7.x-1.x
