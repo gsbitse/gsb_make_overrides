@@ -12,10 +12,6 @@ projects[views][subdir] = contrib
 projects[views][patch][1916814] = http://drupal.org/files/1916814-d7-1.patch
 projects[views][patch][867786] = http://drupal.org/files/867786-views_path-3.patch
 
-; This overrides navbar 
-projects[navbar][version] = 1.0-alpha10
-projects[navbar][subdir] = contrib
-
 projects[ctools][version] = 1.x-dev
 projects[ctools][subdir] = contrib
 projects[ctools][download][type] = git
