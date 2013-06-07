@@ -18,6 +18,7 @@ projects[ctools][subdir] = contrib
 projects[ctools][download][type] = git
 projects[ctools][download][revision] = 876c1a8
 projects[ctools][download][branch] = 7.x-1.x
+projects[ctools][patch][1901106] = https://drupal.org/files/1901106-ctools-views_content-exposed_form_override-5.patch
 
 projects[fieldable_panels_panes][version] = 1.x-dev
 projects[fieldable_panels_panes][subdir] = contrib
