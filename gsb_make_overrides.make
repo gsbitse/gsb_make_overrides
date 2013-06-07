@@ -11,6 +11,7 @@ projects[views][version] = 3.7
 projects[views][subdir] = contrib
 projects[views][patch][1916814] = http://drupal.org/files/1916814-d7-1.patch
 projects[views][patch][867786] = http://drupal.org/files/867786-views_path-3.patch
+projects[views][patch][1333932] = http://drupal.org/files/1333932-sort-exposed-clicksort.patch
 
 projects[ctools][version] = 1.x-dev
 projects[ctools][subdir] = contrib
