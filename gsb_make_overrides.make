@@ -15,10 +15,22 @@ projects[defaultconfig][patch][1912312] = http://drupal.org/files/defaultconfig-
 projects[entity][version] = 1.2
 projects[entity][subdir] = contrib
 
+projects[features][version] = 2.0-rc3
+projects[features][subdir] = contrib
+
+projects[field_group][version] = 1.2
+projects[field_group][subdir] = contrib
+
+projects[fieldable_panels_panes][version] = 1.5
+projects[fieldable_panels_panes][subdir] = contrib
+
 ; This overrides jquery_update in panopoly_admin
 projects[jquery_update][version] = 2.3
 projects[jquery_update][subdir] = contrib
 projects[jquery_update][patch][1448490] = http://drupal.org/files/jquery_update-fixes-states-js-1448490.patch
+
+projects[module_filter][version] = 1.8
+projects[module_filter][subdir] = contrib
 
 ; This overrides views in panopoly_core
 projects[views][version] = 3.7
