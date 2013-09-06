@@ -12,7 +12,7 @@ projects[defaultconfig][version] = 1.0-alpha9
 projects[defaultconfig][subdir] = contrib
 projects[defaultconfig][patch][1912312] = http://drupal.org/files/defaultconfig-remove-notice-1912312.patch
 
-projects[entity][version] = 1
+projects[entity][version] = 1.2
 projects[entity][subdir] = contrib
 
 ; This overrides jquery_update in panopoly_admin
