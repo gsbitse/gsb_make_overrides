@@ -15,11 +15,8 @@ projects[defaultconfig][patch][1912312] = http://drupal.org/files/defaultconfig-
 projects[entity][version] = 1.2
 projects[entity][subdir] = contrib
 
-projects[features][version] = 2.x-dev
+projects[features][version] = 2.0-rc3
 projects[features][subdir] = contrib
-projects[features][download][type] = git
-projects[features][download][revision] = 218270d
-projects[features][download][branch] = 7.x-2.x
 projects[features][patch][1597186] = https://drupal.org/files/1597186-6-features-do-not-cache-includes.patch
 
 projects[field_group][version] = 1.2
