@@ -17,7 +17,7 @@ projects[entity][subdir] = contrib
 
 projects[features][version] = 2.0-rc1
 projects[features][subdir] = contrib
-;projects[features][patch][2028783_2001356] = http://drupalcode.org/project/features.git/patch/a63329f96dbefeb154ec23201bafc42afe9e9e70
+projects[features][patch][2028783_2001356] = http://drupalcode.org/project/features.git/patch/a63329f96dbefeb154ec23201bafc42afe9e9e70
 ;projects[features][patch][2033551] = http://drupalcode.org/project/features.git/patch/495a86a44ee2bdcdee3de300ea99dbe20d70adc5
 ;projects[features][patch][2035535] = http://drupalcode.org/project/features.git/patch/6d2242dc0579f57ec3eabf7376ecf74a8275ebd9
 ;projects[features][patch][658772] = http://drupalcode.org/project/features.git/patch/487af98796cfebbbe9eef0a331c80a8a61b95e99
