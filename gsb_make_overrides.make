@@ -19,7 +19,7 @@ projects[features][version] = 2.0-rc3
 projects[features][subdir] = contrib
 projects[features][patch][1597186] = https://drupal.org/files/1597186-6-features-do-not-cache-includes.patch
 
-projects[field_group][version] = 1.2
+projects[field_group][version] = 1.1
 projects[field_group][subdir] = contrib
 
 projects[fieldable_panels_panes][version] = 1.5
