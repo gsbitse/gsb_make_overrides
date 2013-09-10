@@ -15,8 +15,8 @@ projects[defaultconfig][patch][1912312] = http://drupal.org/files/defaultconfig-
 projects[entity][version] = 1.2
 projects[entity][subdir] = contrib
 
-; projects[features][version] = 2.0-rc3
-; projects[features][subdir] = contrib
+projects[features][version] = 2.0-rc2
+projects[features][subdir] = contrib
 
 projects[field_group][version] = 1.2
 projects[field_group][subdir] = contrib
